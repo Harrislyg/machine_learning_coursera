@@ -7,3 +7,5 @@ Machine Learning on Coursera - by Andrew Ng
   * Forward Propagation to classify images
 4. Exercise 4 - Neural Network (Learning)
   * Back Propagation + Gradient Checking to train Neural Net
+
+** Data Files Not Included **
